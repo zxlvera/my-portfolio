@@ -1,8 +1,8 @@
 import './App.css';
 import { Route, Switch } from 'react-router-dom';
-import About from './components/About'
-import Contact from './components/Contact';
-import Weather from './components/Weather';
+import About from './views/About'
+import Contact from './views/Contact';
+import Weather from './views/Weather';
 import Navbar from './components/NavBar';
 
 function App() {
